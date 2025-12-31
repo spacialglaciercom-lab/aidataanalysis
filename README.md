@@ -96,7 +96,7 @@ The app can handle various types of data analysis questions:
 
 ## Notes
 
-- The app uses GPT-4 for code generation. Make sure you have API credits available.
+- The app uses GPT-3.5-turbo for code generation. Make sure you have API credits available.
 - Large CSV files may take longer to process.
 - The generated code is displayed so you can learn and modify it if needed.
 
